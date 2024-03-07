@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edinam21
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Full Stack Java Development
-- 💞️ I’m looking to collaborate on newbie projects.
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning DevOps Engineering
+- 💞️ I’m looking to collaborate on exciting and impactful projects
 
